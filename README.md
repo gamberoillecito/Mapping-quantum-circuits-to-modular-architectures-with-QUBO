@@ -10,5 +10,6 @@ The code was developed as part of an internal hackaton hosted by the QubiTO stud
 - [Zanti Francesco](https://github.com/FraZoe98)
 
 ---
+... 
 
 ![](/publ.drawio.svg)
